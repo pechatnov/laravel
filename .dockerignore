@@ -1,0 +1,5 @@
+www/vendor
+www/node_modules
+.git
+.idea
+logs
